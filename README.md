@@ -27,19 +27,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Eu me chamo Luiz Bueno, eu amo programação e me pretendo me tornar um grande<strong>Programador</strong>. <br>
+  
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: Aprendizagem contínua, me tornar um grande dev.
 </p>
 
 <p align="left">
+ 
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+  💼 Ferramentas:  Word, Excel, PowerPoint, Canva e Ferramentas Google.
 
 
 <p align="left">
